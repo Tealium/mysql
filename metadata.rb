@@ -1,3 +1,4 @@
+name        "mysql"
 name		  "mysql"
 maintainer        "Opscode, Inc."
 maintainer_email  "cookbooks@opscode.com"
